@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor Back-end apaixonado por criar soluções escaláveis e eficientes. <br><br> Tenho experiência em construção de APIs, integração de sistemas e otimização de performance. <br><br> Gosto de aprender novas tecnologias e compartilhar conhecimento com a comunidade.  <br><br>Sempre em busca de desafios que me permitam evoluir como profissional e contribuir para projetos impactantes.</p>
+<p align="left">Sou desenvolvedor Back-end busco criar soluções escaláveis e eficientes. <br><br> Tenho experiência em construção de APIs, integração de sistemas e otimização de performance. <br><br> Gosto de aprender novas tecnologias e compartilhar conhecimento com a comunidade.  <br><br>Sempre em busca de desafios que me permitam evoluir como profissional e contribuir para projetos impactantes.</p>
 
 ###
 
